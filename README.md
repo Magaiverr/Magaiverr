@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Murilo Braz!
+#  Olá, eu sou Murilo Braz!
 
 💻 **Desenvolvedor Full Stack Python em formação**
 🐍 Python • ⚛️ React • 🌐 JavaScript • 🗄️ SQL
@@ -9,7 +9,7 @@ Atualmente, meu principal foco está no **Front-end**, mas também venho desenvo
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 * 🎓 Formação **Full Stack Python — EBAC**
 * 💻 Foco atual em **desenvolvimento Front-end**
@@ -23,7 +23,7 @@ Atualmente, meu principal foco está no **Front-end**, mas também venho desenvo
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ### 💻 Front-end
 
@@ -37,7 +37,7 @@ Atualmente, meu principal foco está no **Front-end**, mas também venho desenvo
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### 🐍 Back-end
+###  Back-end
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
@@ -46,23 +46,23 @@ Atualmente, meu principal foco está no **Front-end**, mas também venho desenvo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
 
-### 🧪 Testes e Qualidade
+###  Testes e Qualidade
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
 
-### 🐳 DevOps e Ambiente
+###  DevOps e Ambiente
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Pip](https://img.shields.io/badge/Pip-3775A9?style=for-the-badge\&logo=pypi\&logoColor=white)
 
-### 🔧 Ferramentas
+###  Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -70,7 +70,7 @@ Atualmente, meu principal foco está no **Front-end**, mas também venho desenvo
 
 ---
 
-## 📌 Projetos
+##  Projetos
 
 ### 🛒 Loja Virtual
 
@@ -112,7 +112,7 @@ Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de 
 ---
 
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 * ⚛️ React
 * 🟦 TypeScript
@@ -124,7 +124,7 @@ Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de 
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Busco minha primeira oportunidade profissional na área de tecnologia, onde possa **aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções reais**.
 
@@ -132,7 +132,7 @@ Meu objetivo é continuar evoluindo até me tornar um **Desenvolvedor Full Stack
 
 ---
 
-## 📫 Contato
+##  Contato
 
 📧 **Email:** [Muuurilooo1@gmail.com](mailto:Muuurilooo1@gmail.com)
 
@@ -142,7 +142,7 @@ Meu objetivo é continuar evoluindo até me tornar um **Desenvolvedor Full Stack
 
 <div align="center">
 
-### 🚀 Sempre aprendendo. Sempre construindo.
+###  Sempre aprendendo. Sempre construindo.
 
 ⭐ Obrigado por visitar meu perfil!
 
