@@ -111,15 +111,6 @@ Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de 
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Magaiverr\&theme=tokyo-night\&hide_border=true)
-
-</div>
-
----
 
 ## 📚 Atualmente estudando
 
