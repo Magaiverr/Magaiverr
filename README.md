@@ -5,7 +5,7 @@
 
 Sou estudante de **Formação Full Stack Python pela EBAC** e estou constantemente desenvolvendo projetos para colocar meus conhecimentos em prática.
 
-Atualmente, meu principal foco está no **Front-end**, mas também venho desenvolvendo meus conhecimentos em Back-end, APIs, bancos de dados e desenvolvimento de aplicações completas.
+Atualmente, meu principal foco está no **Front-end**, mas também venho desenvolvendo meus conhecimentos em **Back-end, APIs, bancos de dados e desenvolvimento de aplicações completas**.
 
 ---
 
@@ -15,7 +15,8 @@ Atualmente, meu principal foco está no **Front-end**, mas também venho desenvo
 * 💻 Foco atual em **desenvolvimento Front-end**
 * ⚛️ Desenvolvimento com **React**
 * 🐍 Desenvolvimento Back-end com **Python e Django**
-* 🗄️ Conhecimentos em **SQL e PostgreSQL**
+* 🔗 Desenvolvimento e consumo de **APIs REST**
+* 🗄️ Conhecimentos em **SQL, PostgreSQL, MySQL e SQLite**
 * 🔧 Conhecimentos em informática, hardware e manutenção de computadores
 * 📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades
 * 🎯 Objetivo: atuar profissionalmente como **Desenvolvedor Full Stack**
@@ -40,12 +41,26 @@ Atualmente, meu principal foco está no **Front-end**, mas também venho desenvo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ### 🗄️ Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
+
+### 🧪 Testes e Qualidade
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
+
+### 🐳 DevOps e Ambiente
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Pip](https://img.shields.io/badge/Pip-3775A9?style=for-the-badge\&logo=pypi\&logoColor=white)
 
 ### 🔧 Ferramentas
 
@@ -63,11 +78,7 @@ Aplicação web de **E-commerce**, desenvolvida para exibição e organização 
 
 **Tecnologias:**
 
-* React
-* JavaScript
-* TypeScript
-* CSS
-* Vite
+`React` • `JavaScript` • `TypeScript` • `CSS` • `Vite`
 
 ---
 
@@ -85,7 +96,8 @@ Aplicação para gerenciamento de **estoque e controle financeiro**, desenvolvid
 * 📱 Aplicação preparada para Android
 
 **Tecnologias:**
-React • JavaScript • Vite • Capacitor • LocalStorage
+
+`React` • `JavaScript` • `Vite` • `Capacitor` • `LocalStorage`
 
 ---
 
@@ -95,19 +107,7 @@ Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de 
 
 **Tecnologias:**
 
-React • Redux • Styled Components • TypeScript
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magaiverr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magaiverr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
+`React` • `Redux` • `Styled Components` • `TypeScript`
 
 ---
 
@@ -127,8 +127,8 @@ React • Redux • Styled Components • TypeScript
 * 🟦 TypeScript
 * 🐍 Python
 * 🌐 Django
-* 🗄️ PostgreSQL
 * 🔗 APIs REST
+* 🗄️ Bancos de dados e SQL
 * 🧩 Desenvolvimento Full Stack
 
 ---
