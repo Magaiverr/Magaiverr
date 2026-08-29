@@ -111,19 +111,6 @@ Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de 
 
 ---
 
-
-##  Atualmente estudando
-
-* ⚛️ React
-* 🟦 TypeScript
-* 🐍 Python
-* 🌐 Django
-* 🔗 APIs REST
-* 🗄️ Bancos de dados e SQL
-* 🧩 Desenvolvimento Full Stack
-
----
-
 ##  Objetivo
 
 Busco minha primeira oportunidade profissional na área de tecnologia, onde possa **aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções reais**.
