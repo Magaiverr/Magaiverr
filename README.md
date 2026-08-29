@@ -23,6 +23,14 @@ Atualmente, meu principal foco está no **Front-end**, mas também venho desenvo
 
 ---
 
+##  Objetivo
+
+Busco minha primeira oportunidade profissional na área de tecnologia, onde possa **aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções reais**.
+
+Meu objetivo é continuar evoluindo até me tornar um **Desenvolvedor Full Stack completo**, com domínio tanto de Front-end quanto de Back-end.
+
+---
+
 ##  Tecnologias
 
 ### 💻 Front-end
@@ -108,14 +116,6 @@ Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de 
 **Tecnologias:**
 
 `React` • `Redux` • `Styled Components` • `TypeScript`
-
----
-
-##  Objetivo
-
-Busco minha primeira oportunidade profissional na área de tecnologia, onde possa **aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções reais**.
-
-Meu objetivo é continuar evoluindo até me tornar um **Desenvolvedor Full Stack completo**, com domínio tanto de Front-end quanto de Back-end.
 
 ---
 
