@@ -123,7 +123,7 @@ Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de 
 
 📧 **Email:** [Muuurilooo1@gmail.com](mailto:Muuurilooo1@gmail.com)
 
-💻 **Linkedin:** [Murilo Braz]([https://github.com/Magaiverr](https://www.linkedin.com/in/murilobraz/))
+💻 **LinkedIn:** [Murilo Braz](https://www.linkedin.com/in/murilobraz/)
 
 ---
 
