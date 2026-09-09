@@ -86,7 +86,7 @@ Aplicação web de **E-commerce**, desenvolvida para exibição e organização 
 
 **Tecnologias:**
 
-`React` • `JavaScript` • `TypeScript` • `CSS` • `Vite`
+`JavaScript` • `CSS` • `HTML5` • `Vite`
 
 ---
 
@@ -109,13 +109,13 @@ Aplicação para gerenciamento de **estoque e controle financeiro**, desenvolvid
 
 ---
 
-### 💼 EBAC Jobs
+### 💼 PET SHOP
 
-Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de desenvolvimento de aplicações modernas.
+Landing page de um pet shop desenvolvida durante o curso, com apresentação de animais para adoção e produtos disponíveis para compra.
 
 **Tecnologias:**
 
-`React` • `Redux` • `Styled Components` • `TypeScript`
+`HTML5` • `Css` • `Bootstrap` 
 
 ---
 
