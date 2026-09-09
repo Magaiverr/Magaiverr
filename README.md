@@ -125,7 +125,7 @@ Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de 
 
 **LinkedIn:** [Murilo Braz](https://www.linkedin.com/in/murilobraz/)
 
-**Portifolio:** [Portifolio]([https://murilobrazportifolio.vercel.app/)
+**Portifolio:** [Portifolio](https://murilobrazportifolio.vercel.app/)
 
 ---
 
