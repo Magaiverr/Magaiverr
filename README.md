@@ -121,9 +121,11 @@ Projeto desenvolvido durante minha formação na EBAC, trabalhando conceitos de 
 
 ##  Contato
 
-📧 **Email:** [Muuurilooo1@gmail.com](mailto:Muuurilooo1@gmail.com)
+**Email:** [Muuurilooo1@gmail.com](mailto:Muuurilooo1@gmail.com)
 
-💻 **LinkedIn:** [Murilo Braz](https://www.linkedin.com/in/murilobraz/)
+**LinkedIn:** [Murilo Braz](https://www.linkedin.com/in/murilobraz/)
+
+**Portifolio:** [Portifolio]([https://murilobrazportifolio.vercel.app/)
 
 ---
 
